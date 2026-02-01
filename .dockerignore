@@ -1,1 +1,9 @@
+# Variables 
 .env
+
+# Git
+.git
+.gitignore
+
+# Docs
+README.md
