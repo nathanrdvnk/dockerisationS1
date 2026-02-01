@@ -1,6 +1,6 @@
-# Projet PHP Dockerisé S1
+# Projet 1 - PHP Dockerisé S1
 
-Mini projet de dockerisation d’une application PHP / MySQL dans le cadre du cours  
+Projet (n°1) de dockerisation d’une application PHP / MySQL dans le cadre du cours  
 **De la virtualisation à la conteneurisation**.
 
 ## Authors
